@@ -4,8 +4,13 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="smoothScrolling" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
