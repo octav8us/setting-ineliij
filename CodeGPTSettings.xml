@@ -1,0 +1,7 @@
+<application>
+  <component name="ee.carlrobert.codegpt.ide.settings.SettingsState">
+    <option name="apiKey" value="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" />
+    <option name="reverseProxyUrl" value="https://bypass.duti.tech/api/conversation" />
+    <option name="accountName" />
+  </component>
+</application>
