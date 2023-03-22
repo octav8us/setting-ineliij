@@ -1,4 +1,7 @@
 <application>
+  <component name="ee.carlrobert.codegpt.account.AccountDetailsState">
+    <option name="accountName" />
+  </component>
   <component name="ee.carlrobert.codegpt.ide.account.AccountDetailsState">
     <option name="accountName" />
   </component>
