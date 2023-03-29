@@ -5,4 +5,7 @@
   <component name="ee.carlrobert.codegpt.ide.account.AccountDetailsState">
     <option name="accountName" />
   </component>
+  <component name="ee.carlrobert.codegpt.state.AccountDetailsState">
+    <option name="accountName" />
+  </component>
 </application>
