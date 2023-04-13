@@ -16,6 +16,8 @@
             </list>
           </option>
           <option name="classNameVm" value="$class0.name" />
+          <option name="defaultTargetPackage" value="" />
+          <option name="defaultTargetModule" value="" />
         </CodeTemplate>
         <CodeTemplate>
           <option name="name" value="ToString" />
@@ -29,6 +31,8 @@
             </list>
           </option>
           <option name="classNameVm" value="$class0.name" />
+          <option name="defaultTargetPackage" value="" />
+          <option name="defaultTargetModule" value="" />
         </CodeTemplate>
         <CodeTemplate>
           <option name="name" value="HUESerialization" />
@@ -41,6 +45,8 @@
             </list>
           </option>
           <option name="classNameVm" value="$class0.name" />
+          <option name="defaultTargetPackage" value="" />
+          <option name="defaultTargetModule" value="" />
         </CodeTemplate>
       </list>
     </option>
