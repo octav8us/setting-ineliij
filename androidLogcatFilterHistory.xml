@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:LOCAT" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LOCAT" />
+        <option value="tag:" />
+        <option value="message:locationByGps " />
+        <option value="message:LOCATION" />
+        <option value="LOCATION" />
         <option value="package:mine" />
         <option value="DetailsFrag" />
       </list>
