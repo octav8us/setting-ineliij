@@ -7,6 +7,7 @@
         <entry key="editor.maximize.in.splits.on.double.click" value="true" />
         <entry key="editor.maximize.on.double.click" value="false" />
         <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+        <entry key="se.text.search" value="true" />
         <entry key="vcs.annotations.preload" value="true" />
         <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
       </map>
