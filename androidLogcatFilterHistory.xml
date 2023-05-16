@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Exception" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="Exception" />
         <option value="tag:LOCATION" />
+        <option value="Exception" />
         <option value="tag:" />
         <option value="fatal" />
         <option value="tag:LOCAT" />
