@@ -15,6 +15,7 @@
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="false" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
