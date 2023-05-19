@@ -96,9 +96,7 @@
     <option name="SHOW_ARGUMENTS_TYPES" value="true" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="valueLookupDelay" value="500" />
-    </data-views>
+    <data-views />
     <general />
     <debuggers>
       <debugger id="ObjectiveC">
