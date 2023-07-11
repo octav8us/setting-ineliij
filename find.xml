@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Project 'snap_jobs_app'" />
+    <option name="defaultScopeName" value="Project 'snap_jobs_app'" />
+    <option name="SEARCH_SCOPE" value="Project 'snap_jobs_app'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
