@@ -8,8 +8,6 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_TAB_PLACEMENT" value="0" />
-    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OPEN_TABS_IN_MAIN_WINDOW" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
@@ -17,7 +15,6 @@
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
-    <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="false" />
